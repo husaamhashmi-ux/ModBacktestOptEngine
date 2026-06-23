@@ -1,0 +1,2 @@
+from strategies.tma import TripleMovingAverageStrategy
+from strategies.bollinger import BollingerBandsStrategy
