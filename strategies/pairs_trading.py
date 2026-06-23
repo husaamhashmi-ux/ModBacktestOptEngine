@@ -4,7 +4,7 @@ import numpy as np
 from statsmodels.regression.linear_model import OLS
 from statsmodels.tools.tools import add_constant
 
-class PairTradingStrategy(bt.Strategy):
+class PairsTradingStrategy(bt.Strategy):
     params = dict(
         zscore_entry=2.0,  # Z-score deviation boundary to open trades
         zscore_exit=0.1,   # Z-score threshold to close trades and lock in mean reversion
