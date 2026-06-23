@@ -10,7 +10,7 @@ A production-grade quantitative research framework built on top of the **Backtra
 
 ---
 
-## 📈 Implemented Algorithmic Modules
+## Implemented Algorithmic Modules
 
 ### 1. Trend Following: Triple Moving Average (TMA)
 * **Logic:** Employs structural macro alignment across Three Simple Moving Averages (Short, Medium, Long) to capture programmatic trend expansion.
